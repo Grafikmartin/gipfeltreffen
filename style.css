@@ -11,7 +11,7 @@
 
 /* Body mit Hintergrundbild über gesamten Bildschirm */
 body {
-  background: url("assets/image.jpg") no-repeat center center fixed;
+  background: url("assets/image2.jpg") no-repeat center center fixed;
   background-size: cover;
   font-family: 'ZCOOL KuaiLe', sans-serif;
   color: #8f0000;
